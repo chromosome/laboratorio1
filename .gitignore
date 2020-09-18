@@ -1,0 +1,11 @@
+build/
+results/
+impls/
+data/
+obj/
+*.csv
+*.exe
+*.png
+*.sublime-workspace
+*.o
+*.pdf
